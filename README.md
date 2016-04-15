@@ -7,3 +7,4 @@ Web domains share files internally using CURL PHP.
 
 Java uploads and downloads files.
 Files can be shared with other domains as well.
+email link for resistraion of users.
